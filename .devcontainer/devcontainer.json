@@ -1,7 +1,6 @@
 {
   "ConnectionSettings": {
-    "URL": "
-https://api.openai.com/v1/chat/completions",
+    "URL":"https://api.openai.com/v1/chat/completions",
     "ConnectionCredentials": {
       "Connection": "Create new connection",
       "ConnectionName": "ChatGPT_API_Connection",
