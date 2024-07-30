@@ -1,0 +1,14 @@
+{
+  "ConnectionSettings": {
+    "URL": "
+https://api.openai.com/v1/chat/completions",
+    "ConnectionCredentials": {
+      "Connection": "Create new connection",
+      "ConnectionName": "ChatGPT_API_Connection",
+      "DataGateway": "(none)",
+      "AuthenticationKind": "Bearer",
+      "BearerToken": "fTu6Wsp2xqAkuRrUcVysT3BlbkFJ36iy3ziRiD8GCT19bXSd",
+      "PrivacyLevel": "None"
+    }
+  }
+}
